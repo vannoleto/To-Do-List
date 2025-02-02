@@ -36,5 +36,3 @@ Este é um pequeno sistema de Lista de Tarefas (To-Do List) desenvolvido com HTM
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias, relatando problemas ou enviando pull requests!
 
-## Licença
-Este projeto está sob a licença MIT.
